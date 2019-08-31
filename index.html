@@ -1,4 +1,26 @@
 ---
 layout: default
 ---
-<h1>Hello World</h1>
+<div class="homewrapper">
+  <div class="indexHeader">
+    <h1>{{ site.title }}</h1>
+    <h1>Extreme Overthinking</h1>
+  </div>
+  <div class="circle"></div>
+  <ul class="indexNavigation">
+    <li><a href="{{ site.baseurl }}information.html">Projects</a></li>
+    <li><a href="{{ site.baseurl }}resume.html">Resume</a></li>
+    <li><a href="mailto:{{ site.email }}">Contact</a></li>
+    <li><a href="https://damnitdanya.wordpress.com" target="_blank">Blog</a></li>
+  </ul>
+  <footer>
+    <div class="footerContact">
+        <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+        <br>
+        <a href="tel:1-513-490-5522">513.490.5522 </a>
+    </div>
+    <div class="footerLocation">
+      <a href="">999 E 140 Ave<br>Columbus, OH 43235</a>
+    </div>
+  </footer>
+</div>
