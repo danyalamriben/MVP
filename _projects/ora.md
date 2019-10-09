@@ -14,6 +14,6 @@ projectDetails:
 primaryImage: "/assets/img/ORA.jpeg"
 images:
 - "/assets/img/HOC Site Review.pdf"
-published: false
 
 ---
+We did so many things, and now we have no idea how to save and publish!
