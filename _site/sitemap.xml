@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+    <url>
+        <loc>http://localhost:4000/colophon/</loc>
+        <lastmod>2019-10-09</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/</loc>
+        <lastmod>2019-10-09</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/information/</loc>
+        <lastmod>2019-10-09</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/projects/</loc>
+        <lastmod>2019-10-09</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/robots.txt</loc>
+        <lastmod>2019-10-09</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/sitemap.xml</loc>
+        <lastmod>2019-10-09</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/assets/css/styles.css</loc>
+        <lastmod>2019-10-09</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/assets/css/style.css</loc>
+        <lastmod>2019-10-09</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/feed.xml</loc>
+        <lastmod>2019-10-09</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+
+    
+    <url>
+        <loc>http://localhost:4000/projects/change/</loc>
+        <lastmod>2019-10-09</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/projects/test/</loc>
+        <lastmod>2019-10-09</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/projects/test2/</loc>
+        <lastmod>2019-10-09</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/projects/test3/</loc>
+        <lastmod>2019-10-09</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+
+</urlset>
