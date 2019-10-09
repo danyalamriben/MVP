@@ -1,3 +1,15 @@
+body { font-family: "Helvetica", sans-serif; font-size: 100%; color: #846B8A; }
+
+h1 { font-size: 1.5rem; font-weight: normal; color: #846B8A; }
+
+h2 { font-size: 1.5rem; font-weight: normal; color: #846B8A; }
+
+b { font-weight: bold; }
+
+p { color: #846B8A; }
+
+.lb-js { cursor: pointer; }
+
 html { font-family: sans-serif; line-height: 1.15; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; }
 
 body { margin: 0; }
@@ -87,18 +99,6 @@ canvas { display: inline-block; }
 template { display: none; }
 
 [hidden] { display: none; }
-
-body { font-family: "Helvetica", sans-serif; font-size: 100%; color: #846B8A; }
-
-h1 { font-size: 1.5rem; font-weight: normal; color: #846B8A; }
-
-h2 { font-size: 1.5rem; font-weight: normal; color: #846B8A; }
-
-b { font-weight: bold; }
-
-p { color: #846B8A; }
-
-.lb-js { cursor: pointer; }
 
 footer { width: 250px; display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; }
 footer a, footer p { font-size: 0.8125rem; margin: 0; line-height: 1.25rem; }
