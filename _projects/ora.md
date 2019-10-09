@@ -13,7 +13,8 @@ projectDetails:
 - 'UX: Diana'
 primaryImage: "/assets/img/ORA.jpeg"
 images:
+- "/assets/img/fullsizeoutput_1272.jpeg"
 - "/assets/img/HOC Site Review.pdf"
 
 ---
-We did so many things, and now we have no idea how to save and publish!
+This is actually dope AF! 
