@@ -1,0 +1,70 @@
+.projectContentWrapper
+  width: 100%
+  height: auto
+  padding: 98px 100px 100px 100px
+  box-sizing: border-box
+  max-width: 1500px
+  margin: auto
+  .projectContentContainer
+    margin: 32px 0 0 0
+    width: 100%
+    display: grid
+    grid-template-columns: 1fr 1fr
+    grid-gap: 2rem
+    .mainProjectContent
+      h1
+        font-size: $fontLarge
+        font-weight: bold
+        color: $chineseviolet
+        margin: 0 0 .5rem 0
+      small
+        font-size: $fontSmall
+        font-weight: normal
+        color: $chineseviolet
+        margin: 0 0 .5rem 0
+      p
+        margin: .5rem 0
+        font-size: $fontMedium
+        font-weight: normal
+        line-height: 1.5rem
+      ul
+        list-style: none
+        padding: 0
+        li
+          font-size: $fontSmall
+          line-height: 1.25rem
+      a
+        display: block
+        margin: 1.5rem 0
+        font-size: $fontMedium
+        font-weight: bold
+        color: $pastelgray
+        text-decoration: none
+        &:hover
+          opacity: 0.75
+    .projectImages
+      display: flex
+      flex-direction: column
+      align-items: flex-start
+      justify-content: center
+      .imageGrid
+        display: grid
+        grid-template-columns: 1fr
+        grid-gap: 0
+        align-items: stretch
+        width: 100%
+        img
+          width: 100%
+          object-fit: cover
+        //img:nth-child(odd):last-of-type
+          grid-column: span 2
+@media screen and(max-width: 1000px)
+  .projectContentWrapper
+    padding: 98px 1rem 50px 1rem
+@media screen and(max-width: 700px)
+  .projectContentWrapper
+    .projectContentContainer
+      grid-template-columns: 1fr
+@media screen and(max-width: 550px)
+  .projectContentWrapper
+    padding: 76px 1rem 50px 1rem

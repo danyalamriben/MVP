@@ -1,0 +1,19 @@
+---
+label: Information
+hide_body: true
+fields:
+- type: textarea
+  name: about
+  label: About
+  description: Write some information about yourself.
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+- type: file
+  name: image
+  label: Image
+  description: Add a photo of yourself
+pages:
+- information.html

@@ -1,0 +1,38 @@
+.projectsWrapper
+  display: grid
+  margin: 114px 100px 100px 100px
+  grid-template-columns: repeat(auto-fill, minmax(270px, 1fr))
+  border-top: 1px solid black
+  border-left: 1px solid black
+  box-sizing: border-box
+  @media screen and (min-width: 1500px)
+    max-width: 1300px
+    margin: 114px auto 100px auto
+  a
+    border-right: 1px solid black
+    border-bottom: 1px solid black
+    height: 270px
+    display: flex
+    flex-direction: column
+    justify-content: flex-end
+    color: $chineseviolet
+    text-decoration: none
+    padding: 1rem
+    box-sizing: border-box
+    position: relative
+    z-index: 1
+    h3, small
+      position: relative
+      z-index: 3
+      margin: 0
+      padding: .5rem 0 0 0
+    &:link
+      background: white
+@media screen and(max-width: 1000px)
+  .projectsWrapper
+    margin: 114px 1rem 1rem 1rem
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr))
+
+@media screen and(max-width: 475px)
+  .projectsWrapper
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr))

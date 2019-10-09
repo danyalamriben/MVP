@@ -1,0 +1,69 @@
+.informationContentContainer
+  padding: 98px 100px 50px 100px
+  box-sizing: border-box
+  width: 100%
+  min-height: 100vh
+  display: grid
+  grid-template-columns: 1fr 1fr
+  grid-template-rows: 1fr
+  grid-gap: 2rem
+  align-items: center
+  grid-template: "main images"
+  max-width: 1500px
+  margin: auto
+  .mainContent
+    grid-area: main
+    max-width: 600px
+    h1
+      font-size: $fontLarge
+      font-weight: bold
+      color: $chineseviolet
+      margin: 0 0 .5rem 0
+    small
+      font-size: $fontSmall
+      font-weight: normal
+      color: $chineseviolet
+      margin: 0 0 .5rem 0
+    p
+      margin: .5rem 0
+      font-size: $fontMedium
+      font-weight: normal
+      line-height: 1.5rem
+    ul
+      list-style: none
+      padding: 0
+      li
+        font-size: $fontSmall
+        line-height: 1.25rem
+    a
+      display: block
+      margin: 1.5rem 0
+      font-size: $fontMedium
+      font-weight: bold
+      color: $pastelgray
+      text-decoration: none
+      &:hover
+        opacity: 0.75
+  .imageContent
+    height: 50vw
+    max-height: 500px
+    max-width: 600px
+    display: flex
+    flex-direction: row
+    justify-content: center
+    align-items: center
+    overflow: hidden
+    flex-wrap: wrap
+    grid-area: images
+    margin: auto
+    img
+      object-fit: cover
+@media screen and(max-width: 1000px)
+  .informationContentContainer
+    padding: 98px 1rem 50px 1rem
+@media screen and(max-width: 850px)
+  .informationContentContainer
+    grid-template: "images" "main"
+    .imageContent, .mainContent
+      max-width: 500px
+      margin: auto

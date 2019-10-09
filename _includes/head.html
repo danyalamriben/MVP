@@ -1,2 +1,33 @@
-<title>{{ site.title }}</title>
-<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/styles.css"
+<meta charset="utf-8">
+<title>{{ site.title }} - Design Researcher</title>
+<meta name="description" content="{{ site.description | truncate: 160 }}"/>
+<meta name="keywords" content="User Researcher, Designer, UX Researcher, UX design, UX strategy, Experience Researcher, Diana Lamriben, Diana Lamriben UX, Diana Lamriben UX Researcher"/>
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/styles.css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, viewport-fit=cover"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<link href="{{ site.baseurl }}/favicon.png" rel="shortcut icon" type="image/x-icon" />
+<link href="{{ site.baseurl }}/apple-touch-icon.png" rel="apple-touch-icon" />
+<link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
+<meta property="og:title" content="{{ site.title }}" />
+<meta property="og:site_name" content="{{ site.title }} - Design Researcher" />
+<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/og-image.png" />
+<meta property="og:description" content="{{ site.description }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ site.url }}" />
+
+<!--Application ID-->
+<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@id": "{{ site.url }}",
+		"@type": "Organization",
+		"name": "{{ site.title }}",
+		"url": "{{ site.url }}",
+		"logo": "{{ site.url }}{{ site.baseurl }}/og-image.png",
+		"sameAs": [
+			"https://www.linkedin.com/in/diana-lamriben",
+
+	
+		]
+	}
+</script>

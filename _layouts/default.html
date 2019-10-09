@@ -1,11 +1,14 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="en-US">
   <head>
     {% include head.html %}
-    <meta charset="utf-8">
-    <title></title>
   </head>
-  <body>
+  <body data-theme="trans">
+    {% if page.url != '/' %}
+    {% include nav.html %}
+    {% endif %}
     {{ content }}
+    {% include js.html %}
   </body>
 </html>
+     
