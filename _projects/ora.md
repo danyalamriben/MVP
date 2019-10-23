@@ -11,9 +11,17 @@ projectDetails:
 - 'Web Development: Soto'
 - 'Strategy: Naulds'
 - 'UX: Diana'
-primaryImage: "/assets/img/Screen Shot 2019-10-23 at 4.03.15 PM.png"
+primaryImage: "/assets/img/ORA.jpeg"
 images:
 - 
 
 ---
-This is a test
+**methods**
+
+* brainstorming workshop
+* requirements analysis
+* stakeholder interviews
+* wireframe mockups
+* user flow maps
+* guerrilla usability tests throughout iterations
+* page views and click/scroll heatmap analytics 
