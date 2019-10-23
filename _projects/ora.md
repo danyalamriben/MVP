@@ -13,7 +13,7 @@ projectDetails:
 - 'UX: Diana'
 primaryImage: "/assets/img/Screen Shot 2019-10-23 at 4.03.15 PM.png"
 images:
-- "/assets/img/HOC Site Review.pdf"
+- 
 
 ---
 This is a test
