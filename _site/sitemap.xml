@@ -67,33 +67,5 @@
     
 
     
-    <url>
-        <loc>http://localhost:4000/projects/change/</loc>
-        <lastmod>2019-10-09</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/projects/change1/</loc>
-        <lastmod>2019-10-09</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/projects/change3/</loc>
-        <lastmod>2019-10-09</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/projects/change4/</loc>
-        <lastmod>2019-10-09</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
 
 </urlset>
