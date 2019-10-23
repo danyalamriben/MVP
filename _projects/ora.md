@@ -4,7 +4,7 @@ title: ORA
 workCategory: Collaboration
 location: Columbus
 projectDate: "2019"
-date: 2019-10-01 04:00:00 +0000
+date: 2019-10-01T04:00:00.000+00:00
 projectColor: "#F888E2"
 lightText: false
 projectDetails:
@@ -17,4 +17,4 @@ images:
 - "/assets/img/HOC Site Review.pdf"
 
 ---
-This is actually dope AF! 
+This is a test
