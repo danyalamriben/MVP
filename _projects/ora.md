@@ -11,9 +11,8 @@ projectDetails:
 - 'Web Development: Soto'
 - 'Strategy: Naulds'
 - 'UX: Diana'
-primaryImage: "/assets/img/ORA.jpeg"
+primaryImage: "/assets/img/Screen Shot 2019-10-23 at 4.03.15 PM.png"
 images:
-- "/assets/img/fullsizeoutput_1272.jpeg"
 - "/assets/img/HOC Site Review.pdf"
 
 ---
