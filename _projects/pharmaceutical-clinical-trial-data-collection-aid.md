@@ -34,11 +34,11 @@ I'd also **observe frequent issues the researchers had**. They usually fell into
 
 ### Initial Requirements
 
-\* ease of use for researcher in charge of particular data collection activity (If I'm collecting blood, I want to be able to see **just the times relevant to my responsibilities**, without having to visually filter out the cognitive battery testing times)
+ease of use for researcher in charge of particular data collection activity (If I'm collecting blood, I want to be able to see **just the times relevant to my responsibilities**, without having to visually filter out the cognitive battery testing times)
 
-\* convenient placement of names paired with participant numbers to not rely on working memory and to easily call out and identify who is missing, who is on deck, etc.
+convenient placement of names paired with participant numbers to not rely on working memory and to easily call out and identify who is missing, who is on deck, etc. 
 
-\* a way to keep track of progress throughout the day of testing (did we already do collection X yet?)
+a way to keep track of progress throughout the day of testing (did we already do collection X yet?)
 
 ### prototyping
 
