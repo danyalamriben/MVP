@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Pharmaceutical Clinical Trial Data Collection Aid
+title: Clinical Trial Data Collection Aid
 workCategory: Personal Initiative
 location: Columbus, Ohio
 projectDate: "2018"
