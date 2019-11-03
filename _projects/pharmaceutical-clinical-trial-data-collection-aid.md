@@ -35,3 +35,7 @@ I'd also **observe frequent issues the researchers had**. They usually fell into
 * - ease of use for researcher in charge of particular data collection activity (If I'm collecting blood, I want to be able to see **just the times relevant to my responsibilities**, without having to visually filter out the cognitive battery testing times) 
 * - convenient placement of names paired with participant numbers to not rely on working memory and to easily call out and identify who is missing, who is on deck, etc. 
 * - a way to keep track of progress throughout the day of testing (did we already do collection X yet?)
+
+### prototyping
+
+I basically created a testing schedule for myself that only contained times specific to an activity I was responsible for (since I had a few different responsibilities, I created a few schedules along the same guidelines). I used dot gridded paper to keep information cleanly spaced and organized. I had a grey highlighter to separate columns and actually wrote times in rows using alternating pen colors. 
