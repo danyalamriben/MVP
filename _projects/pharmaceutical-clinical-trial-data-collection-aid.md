@@ -12,7 +12,7 @@ primaryImage: ''
 images: []
 
 ---
-## problem
+### problem
 
 Massively cluttered and visually noisy excel spreadsheet used by both participants and researchers to stay on testing schedules set for the study. cramming a schedule of test times that were every four minutes from 6:40 am to 1:00 am, for 16 participants was clearly not a thought out decision, but one of necessity. there was no hierarchy, no contrast between cells, and no actual names used for participants. 
 
