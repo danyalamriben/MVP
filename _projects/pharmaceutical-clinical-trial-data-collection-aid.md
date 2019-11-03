@@ -29,3 +29,9 @@ I'd also **observe frequent issues the researchers had**. They usually fell into
 (It's difficult, especially when under any influence of sleep deprivation or pharmaceuticals, to automatically start responding to a name different from the one you've been given at birth).
 
 **I interviewed my fellow researchers** and asked about the testing schedule. Many veteran researchers had the attitude of "it works fine, it's always been this way, you just have to pay careful attention to read the right spot". Other newer contracted researchers seemed more open about the issues being caused by the poorly designed system, and clearly encountered confusion as they tried to follow the expectations. 
+
+### Initial Requirements
+
+* ease of use for researcher in charge of particular data collection activity (If I'm collecting blood, I want to be able to see **just the times relevant to my responsibilities**, without having to visually filter out the cognitive battery testing times) 
+* convenient placement of names paired with participant numbers to not rely on working memory and to easily call out and identify who is missing, who is on deck, etc. 
+* a way to keep track of progress throughout the day of testing (did we already do collection X yet?)
