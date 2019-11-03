@@ -72,4 +72,5 @@ fields:
   name: images
   description: These are the project images
 pages:
+- _projects/pharmaceutical-clinical-trial-data-collection-aid.md
 - _projects/ora.md
