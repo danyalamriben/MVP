@@ -202,9 +202,9 @@ footer a:hover { color: #C9CEBD; text-decoration: underline; }
 .informationContentContainer .mainContent ul li { font-size: 0.8125rem; line-height: 1.25rem; }
 .informationContentContainer .mainContent a { display: block; margin: 1.5rem 0; font-size: 1.125rem; font-weight: bold; color: #C9CEBD; text-decoration: none; }
 .informationContentContainer .mainContent a:hover { opacity: 0.75; }
-.informationContentContainer .imageContent { height: 50vw; max-height: 500px; max-width: 600px; display: flex; flex-direction: row; justify-content: center; align-items: center; overflow: hidden; flex-wrap: wrap; grid-area: images; margin: auto; }
+.informationContentContainer .imageContent { height: 50vw; max-height: 900px; max-width: 600px; display: flex; flex-direction: row; justify-content: center; align-items: center; overflow: hidden; flex-wrap: wrap; grid-area: images; margin: auto; }
 .informationContentContainer .imageContent img { object-fit: cover; }
 
 @media screen and (max-width: 1000px) { .informationContentContainer { padding: 98px 1rem 50px 1rem; } }
 @media screen and (max-width: 850px) { .informationContentContainer { grid-template: "images" "main"; }
-  .informationContentContainer .imageContent, .informationContentContainer .mainContent { max-width: 500px; margin: auto; } }
+  .informationContentContainer .imageContent, .informationContentContainer .mainContent { max-width: 500px; max-height: none; margin: auto; } }

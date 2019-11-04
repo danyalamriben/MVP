@@ -4,68 +4,89 @@
     
     <url>
         <loc>http://localhost:4000/colophon/</loc>
-        <lastmod>2019-10-09</lastmod>
+        <lastmod>2019-11-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
     
     <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2019-10-09</lastmod>
+        <lastmod>2019-11-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
     
     <url>
         <loc>http://localhost:4000/information/</loc>
-        <lastmod>2019-10-09</lastmod>
+        <lastmod>2019-11-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
     
     <url>
         <loc>http://localhost:4000/projects/</loc>
-        <lastmod>2019-10-09</lastmod>
+        <lastmod>2019-11-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
     
     <url>
         <loc>http://localhost:4000/robots.txt</loc>
-        <lastmod>2019-10-09</lastmod>
+        <lastmod>2019-11-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
     
     <url>
         <loc>http://localhost:4000/sitemap.xml</loc>
-        <lastmod>2019-10-09</lastmod>
+        <lastmod>2019-11-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
     
     <url>
         <loc>http://localhost:4000/assets/css/styles.css</loc>
-        <lastmod>2019-10-09</lastmod>
+        <lastmod>2019-11-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
     
     <url>
         <loc>http://localhost:4000/assets/css/style.css</loc>
-        <lastmod>2019-10-09</lastmod>
+        <lastmod>2019-11-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
     
     <url>
         <loc>http://localhost:4000/feed.xml</loc>
-        <lastmod>2019-10-09</lastmod>
+        <lastmod>2019-11-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
     
 
+    
+    <url>
+        <loc>http://localhost:4000/projects/pharmaceutical-clinical-trial-data-collection-aid/</loc>
+        <lastmod>2019-11-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/projects/ora/</loc>
+        <lastmod>2019-11-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/projects/change/</loc>
+        <lastmod>2019-11-04</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
     
 
 </urlset>
