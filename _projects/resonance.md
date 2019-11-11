@@ -18,3 +18,5 @@ images: []
 #### Discovery Phase: Ideas to chew on
 
 Simple way of determining if a story is worth the effort of being told? Ask: How badly do I want this idea to **live**? 
+
+Identify opportunities for contrast and then create fascination and passion around these contrasts.
