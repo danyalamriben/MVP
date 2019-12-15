@@ -4,7 +4,7 @@ title: Clinical Trial Data Collection Aid
 workCategory: Personal Initiative
 location: Columbus, Ohio
 projectDate: "2018"
-date: 2018-06-05 11:00:00 +0000
+date: 2018-06-05T11:00:00.000+00:00
 projectColor: "#F78CF8"
 lightText: false
 projectDetails: []
@@ -12,7 +12,7 @@ primaryImage: ''
 images: []
 
 ---
-_This is a rough draft and mostly just an exercise of word-vomiting the case-study for later refinement. Please don't judge me._
+_This is a rough draft and mostly just an exercise to recollect for later refinement. Please don't judge me._
 
 ### problem
 
@@ -36,7 +36,7 @@ I'd also **observe frequent issues the researchers had**. They usually fell into
 
 ease of use for researcher in charge of particular data collection activity (If I'm collecting blood, I want to be able to see **just the times relevant to my responsibilities**, without having to visually filter out the cognitive battery testing times)
 
-convenient placement of names paired with participant numbers to not rely on working memory and to easily call out and identify who is missing, who is on deck, etc. 
+convenient placement of names paired with participant numbers to not rely on working memory and to easily call out and identify who is missing, who is on deck, etc.
 
 a way to keep track of progress throughout the day of testing (did we already do collection X yet?)
 
