@@ -34,12 +34,12 @@ I'd also **observe frequent issues the researchers had**. They usually fell into
 
 ### Initial Requirements
 
-ease of use for researcher in charge of particular data collection activity (If I'm collecting blood, I want to be able to see **just the times relevant to my responsibilities**, without having to visually filter out the cognitive battery testing times)
+Ease of use for researcher in charge of specific activity (If I'm collecting blood, I want to be able to see **just the times relevant to my responsibilities**, without having to visually filter out the cognitive battery testing times)
 
-convenient placement of names paired with participant numbers to not rely on working memory and to easily call out and identify who is missing, who is on deck, etc.
+Convenient placement of names paired with participant numbers to not rely on working memory and to easily call out and identify who is missing, who is on deck, etc.
 
-a way to keep track of progress throughout the day of testing (did we already do collection X yet?)
+A way to keep track of progress throughout the day of testing (did we already do collection X yet?)
 
 ### prototyping
 
-I basically created a testing schedule for myself that only contained times specific to an activity I was responsible for (since I had a few different responsibilities, I created a few schedules along the same guidelines). I used dot gridded paper to keep information cleanly spaced and organized. I had a grey highlighter to separate columns and actually wrote times in rows using alternating pen colors.
+I created a testing schedule for myself that only contained times specific to an activity I was responsible for (since I had a few different responsibilities, I created a few schedules along the same guidelines). I used dot-gridded paper to keep information cleanly spaced and organized. I had a grey highlighter to separate columns and actually wrote times in rows using alternating pen colors so I was able to locate a particular time easily, without losing my place. I also utilized a clear overlay that allowed me to cover up testing schedules that differed for each day in the trial (each test was 3 days long, and testing frequency was different depending on what day it was in that group). Being able to only see the information relevant to that day of testing made it almost impossible to accidentally test at the wrong time.
