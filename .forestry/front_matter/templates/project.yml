@@ -72,5 +72,6 @@ fields:
   name: images
   description: These are the project images
 pages:
+- _projects/attitudes-as-barriers-to-design-thinking.md
 - _projects/ora.md
 - _projects/pharmaceutical-clinical-trial-data-collection-aid.md
