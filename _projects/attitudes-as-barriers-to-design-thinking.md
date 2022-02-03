@@ -12,6 +12,7 @@ projectDetails:
 - Nov. 2019
 primaryImage: ''
 images: []
+published: false
 
 ---
 I’ve encountered multiple people that I’ve worked with over the years that have a way of thinking.... They all respond to an idea for improving something with 
